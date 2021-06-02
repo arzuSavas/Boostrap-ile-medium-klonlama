@@ -1,0 +1,38 @@
+body{
+  font-family:sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+ .font{
+     font-family:gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-size: 70px;
+ }
+.bg-yellow{
+    background-color: #FFC017; 
+}
+.border-bottom-dark{
+    border-bottom:1px solid rgba(0,0,0,0.8);
+}
+.text-color{
+    color: rgba(8, 8, 8, 1);
+}
+.bs{
+    fill: rgba(0, 0, 0, 1);
+}
+.bt{
+    height: 25px;
+}
+.aside-buttons > li{
+     margin-bottom: 10px;
+}
+.rightpanellinks {
+    text-decoration: none;
+    color: rgba(117, 117, 117, 1);
+    margin: 10px;
+ }
+ .text-01{
+    font-size: 30px;
+    font-weight: bold;    
+    color:rgba(230, 230, 230, 1);
+    line-height: 36px;
+    
+ }
+ 
